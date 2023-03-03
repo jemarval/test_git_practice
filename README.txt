@@ -1,1 +1,1 @@
-Git practice repository
+Git practice repository.
